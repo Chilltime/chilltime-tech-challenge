@@ -1,4 +1,4 @@
-# Chilltime - Day at Chilltime / Remote Technical Exercise
+# Chilltime - Day at Chilltime / Remote Technical Exercise (React JS / Unity)
 
 This exercise is related to a Technical exercise for candidates applying to a Software Development position at Chilltime. This exercise can be done remotely or at our office locations.
 
